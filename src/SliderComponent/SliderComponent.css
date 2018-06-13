@@ -1,0 +1,14 @@
+.slidermid{
+    margin: 0 auto;
+}
+.sliderimg{
+    /* width:65%; */
+    height: 500px;
+    margin: 0 auto;
+    padding-top: 15px;
+
+}
+.slick-dots{
+  bottom: 25px !important;
+  color:#ffffff;
+}

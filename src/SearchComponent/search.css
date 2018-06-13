@@ -1,0 +1,10 @@
+.fa-search:before {
+    content: "\F002";
+}
+.search-bar {
+    max-width: 400px;
+    padding-top: 8px;
+}
+.navbar-form .form-group{
+  margin-top: 5px;
+}

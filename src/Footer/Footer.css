@@ -1,0 +1,39 @@
+.app-footer{
+    background-color:#ff0000;
+    /* height: 20px; */
+    width: 100%;
+}
+h4{
+    color:#ffffff;
+}
+.textfooter{
+    text-align: center;
+    color:#ffffff;
+    font-size:15px;
+
+}
+.footerlinks ul li {
+    text-decoration: none;
+    list-style-type: none;
+    text-align: center;
+    color:#ffffff;
+    font-size:15px;
+}
+.footerlinks ul li a{
+    text-decoration: none;
+    text-align: center;
+    color:#ffffff;
+    font-size:15px;
+}
+.footerlinks1  p{
+    color:#ffffff;
+    font-size: 15px;
+}
+.copywrite a{
+    color:#ffffff;
+    /* font-size: 15px; */
+}
+ p{
+    color:#ffffff;
+    font-size: 15px;
+}
