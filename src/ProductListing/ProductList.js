@@ -1,5 +1,5 @@
 import React,{ Component } from 'react'
-import { Jumbotron,Grid,Row,Col,Image,Button } from 'react-bootstrap'
+import {Grid,Row,Col,Image } from 'react-bootstrap'
 import StarRatingComponent from 'react-star-rating-component';
 
 import './ProductList.css'
@@ -26,13 +26,13 @@ class ProductList extends Component{
              prodimg:"./assets/desk.jpg",
              prodname:"Robert Recleaner2 Sofa set",
              producPrice:"Rs14,000",
-             rating: 3
+             rating: 2
            },
            {
               prodimg:"./assets/studytable.jpg",
               prodname:"Robert Recleaner2 Sofa set",
               producPrice:"Rs14,000",
-              rating: 3
+              rating: 1
             },
             {
                prodimg:"./assets/desk.jpg",

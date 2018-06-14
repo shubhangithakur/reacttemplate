@@ -1,14 +1,9 @@
 import React, { Component } from 'react';
-import { Jumbotron,Grid,Row,Col,Image,Button } from 'react-bootstrap'
-import { Link } from 'react-router-dom'
-import search from  './search.css';
+import  './search.css';
 import { FormGroup, FormControl, InputGroup } from 'react-bootstrap';
 
 class SearchComponent extends Component {
-  constructor(props){
-    super(props);
-
-  }
+ 
   render(){
 
     return (

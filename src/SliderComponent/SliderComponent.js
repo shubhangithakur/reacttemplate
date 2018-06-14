@@ -1,5 +1,5 @@
 import React,{Component} from "react";
-import { Jumbotron,Grid,Row,Col,Image,Button } from 'react-bootstrap'
+import { Image } from 'react-bootstrap'
 import './SliderComponent.css'
 import Slider from "react-slick";
 

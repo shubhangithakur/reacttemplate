@@ -1,13 +1,9 @@
 import React, { Component } from 'react';
-import { Jumbotron,Grid,Row,Col,Image,Button } from 'react-bootstrap'
-import { Link } from 'react-router-dom'
-import Footer from  './Footer.css';
+import { Grid,Row,Col} from 'react-bootstrap'
+import  './Footer.css';
 
 class FooterComponent extends Component {
-  constructor(props){
-    super(props);
-
-  }
+ 
   render(){
 
     return (

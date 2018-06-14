@@ -1,16 +1,11 @@
 import React, { Component } from 'react';
-import { Jumbotron,Grid,Row,Col,Image} from 'react-bootstrap'
-import { Navbar, Nav, NavItem, NavDropdown, MenuItem, FormGroup, FormControl, Button, InputGroup } from 'react-bootstrap';
-
-import { Link } from 'react-router-dom'
-import Header_css from  './HeaderComponent.css';
+import { Image} from 'react-bootstrap'
+import { Navbar, Nav, NavItem, NavDropdown, MenuItem } from 'react-bootstrap';
+import  './HeaderComponent.css';
 import SearchComponent from '../SearchComponent/search.js'
 
 class HeaderComponent extends Component {
-  constructor(props){
-    super(props);
-
-  }
+ 
   render(){
 
     return (
